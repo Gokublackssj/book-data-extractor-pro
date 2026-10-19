@@ -1,0 +1,14 @@
+{
+  "name": "mi_catalogo",
+  "description": "Ejemplo basado en books.toscrape.com. Cambia los selectores para otro sitio.",
+  "start_url": "https://books.toscrape.com/",
+  "product_selector": "article.product_pod",
+  "title_selector": "h3 a",
+  "title_attribute": "title",
+  "price_selector": ".price_color",
+  "availability_selector": ".instock.availability",
+  "link_selector": "h3 a",
+  "link_attribute": "href",
+  "next_page_selector": "li.next a",
+  "next_page_attribute": "href"
+}

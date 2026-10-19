@@ -1,0 +1,52 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Resultados generados
+output/*
+!output/.gitkeep
+resultados/
+
+# Temporales y archivos del sistema
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.swp
+*.swo
+*~
+~$*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+._*
+
+# Cobertura y build
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Secretos y configuración local
+.env
+.env.*
+
+# Documentación local (no se publica)
+/AGENTS.md
+
+# Logs
+*.log

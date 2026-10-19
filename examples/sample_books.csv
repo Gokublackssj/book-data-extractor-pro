@@ -1,0 +1,7 @@
+﻿Título,Precio,Moneda,Disponibilidad,URL,Advertencias
+A Light in the Attic,51.77,£,disponible,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,
+Tipping the Velvet,53.74,£,disponible,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,
+Soumission,50.10,£,disponible,https://books.toscrape.com/catalogue/soumission_998/index.html,
+Sharp Objects,47.82,£,disponible,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,
+Sapiens: A Brief History of Humankind,54.23,£,disponible,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,
+Un libro sin precio,,£,desconocida,https://example.com/libro-sin-precio,precio ausente o inválido; disponibilidad ausente
