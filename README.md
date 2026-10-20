@@ -49,13 +49,9 @@ Puedes ver un archivo de ejemplo en [`examples/sample_books.csv`](examples/sampl
 Con Git:
 
 ```bash
-git clone URL_DEL_REPOSITORIO  # marcador: sustituir por la URL real
+git clone https://github.com/Gokublackssj/book-data-extractor-pro.git
 cd book-data-extractor-pro
 ```
-
-> **Pendiente antes de publicar:** `URL_DEL_REPOSITORIO` es un marcador, no una
-> URL real. Sustitúyelo por la URL que aparece en el botón **Code** de GitHub
-> cuando crees el repositorio.
 
 Si prefieres no usar Git, descarga el ZIP con **Code → Download ZIP**,
 descomprímelo y abre una terminal dentro de la carpeta.
@@ -461,14 +457,14 @@ book-data-extractor-pro/
 
 MIT. Consulta [`LICENSE`](LICENSE).
 
-## Antes de publicar en GitHub
+## Autor y portafolio
 
-1. Añade tu nombre o el enlace a tu perfil en este README.
-2. Cambia el titular de `LICENSE` si quieres que aparezca tu nombre.
-3. Ejecuta `python -m pytest` y confirma que todo pasa.
-4. Comprueba que `.venv/`, `output/`, `resultados/`, las cachés y `AGENTS.md` no
-   se suben al repositorio.
-5. Añade una captura o un video corto de la ejecución.
-6. Crea el repositorio, sustituye `URL_DEL_REPOSITORIO` por la URL real, sube el
-   código y añade una descripción y temas como `python`, `playwright`,
-   `web-scraping`, `data-extraction`, `excel`, `csv`.
+Autor: [Gokublackssj](https://github.com/Gokublackssj).
+
+Book Data Extractor Pro es un proyecto personal de automatización con Python.
+Este repositorio forma parte de mi portafolio. Extrae catálogos de libros con
+Playwright, limpia los datos y los exporta a CSV y Excel. Está pensado para
+sitios de práctica autorizados como `books.toscrape.com`.
+
+- [Perfil de GitHub](https://github.com/Gokublackssj)
+- [Repositorio](https://github.com/Gokublackssj/book-data-extractor-pro)
